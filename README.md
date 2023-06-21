@@ -30,7 +30,7 @@ This repository contains two entities:
 ![App_Screenshot](https://via.placeholder.com/468x100?text=App+Screenshot+Here)
 
 5. Now deploy tetxSummarizer_api folder on server but for testing use ngrok temporarily.
-6. Everthing is done. now run ngrok to generate url and paste this url in [popup.js](/client/popup/popup.js).
+6. Everthing is done. now run ngrok to generate url and paste this url in [line number 18 of popup.js](https://github.com/sarnav38/text_Summarizer/blob/main/client/popup/popup.js#L18).
 
 ![App Screenshot](https://via.placeholder.com/468x100?text=App+Screenshot+Here)
 
