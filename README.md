@@ -34,11 +34,17 @@ This repository contains two entities:
 5. Now deploy tetxSummarizer_api folder on server but for testing use ngrok temporarily.
 6. Everthing is done. now run ngrok to generate url and paste this url in [line number 18 of popup.js](https://github.com/sarnav38/text_Summarizer/blob/main/client/popup/popup.js#L18).
 
-![](https://github.com/sarnav38/text_Summarizer/blob/main/img/line18.gif)
+![](https://github.com/sarnav38/text_Summarizer/blob/main/img/ng1.PNG)  ![](https://github.com/sarnav38/text_Summarizer/blob/main/img/ng2.PNG)
+![](https://github.com/sarnav38/text_Summarizer/blob/main/img/line18.PNG)
 
 6. Now load chrome extension folder [client](/client), load unpacked from [chrome://extensions/](chrome://extensions). open [youtube](https://youtube.com/) video and click on summarize and see the summary as shown in demo section. 
 
-![App Screenshot](https://via.placeholder.com/468x100?text=App+Screenshot+Here)
+![](https://github.com/sarnav38/text_Summarizer/blob/main/img/ext1.gif)
+
+![](https://github.com/sarnav38/text_Summarizer/blob/main/img/ext2.gif)
+
+![](https://github.com/sarnav38/text_Summarizer/blob/main/img/summary.PNG)
+
     
 ## Authors
 
