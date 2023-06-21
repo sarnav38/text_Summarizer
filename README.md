@@ -11,9 +11,9 @@ This repository contains two entities:
 ## Demo
 1. Open youtube video then click on extension and inside extension click summarize button to get videos summarization below youtube player.
 
-![](https://github.com/sarnav38/text_Summarizer/blob/main/img/demo1.gif)
+![1.](https://github.com/sarnav38/text_Summarizer/blob/main/img/demo1.gif)
 
-![](https://github.com/sarnav38/text_Summarizer/blob/main/img/demo2.gif)
+![2.](https://github.com/sarnav38/text_Summarizer/blob/main/img/demo2.gif)
 
 
 ## Installation
@@ -29,21 +29,24 @@ This repository contains two entities:
 ```
 3. Login  [```hugging face```](https://huggingface.co/) goto setting->access token click show  and copy Access Token from your account and paste it in [secrets.json](https://github.com/sarnav38/text_Summarizer/blob/main/server/secerts.json) file.
 
-![](https://github.com/sarnav38/text_Summarizer/blob/main/img/hugging.gif)
+![1.](https://github.com/sarnav38/text_Summarizer/blob/main/img/hugging.gif)
 
 5. Now deploy tetxSummarizer_api folder on server but for testing use ngrok temporarily.
 6. Everthing is done. now run ngrok to generate url and paste this url in [line number 18 of popup.js](https://github.com/sarnav38/text_Summarizer/blob/main/client/popup/popup.js#L18).
 
-![](https://github.com/sarnav38/text_Summarizer/blob/main/img/ng1.PNG)  ![](https://github.com/sarnav38/text_Summarizer/blob/main/img/ng2.PNG)
-![](https://github.com/sarnav38/text_Summarizer/blob/main/img/line18.PNG)
+![1.](https://github.com/sarnav38/text_Summarizer/blob/main/img/ng1.PNG)  
+
+![2.](https://github.com/sarnav38/text_Summarizer/blob/main/img/ng2.PNG)
+
+![3.](https://github.com/sarnav38/text_Summarizer/blob/main/img/line18.png)
 
 6. Now load chrome extension folder [client](/client), load unpacked from [chrome://extensions/](chrome://extensions). open [youtube](https://youtube.com/) video and click on summarize and see the summary as shown in demo section. 
 
-![](https://github.com/sarnav38/text_Summarizer/blob/main/img/ext1.gif)
+![1.](https://github.com/sarnav38/text_Summarizer/blob/main/img/ext1.gif)
 
-![](https://github.com/sarnav38/text_Summarizer/blob/main/img/ext2.gif)
+![2.](https://github.com/sarnav38/text_Summarizer/blob/main/img/ext2.gif)
 
-![](https://github.com/sarnav38/text_Summarizer/blob/main/img/summary.PNG)
+![2.](https://github.com/sarnav38/text_Summarizer/blob/main/img/summary.png)
 
     
 ## Authors
