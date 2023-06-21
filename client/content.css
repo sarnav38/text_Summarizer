@@ -1,0 +1,39 @@
+.my_block{
+    overflow-y: auto;
+    max-height: 30em;
+    width: inherit;
+    font-family: inherit;
+    border: 2px solid #288b22;
+    border-radius: 10px
+}
+.my_block h5{
+    font-size: medium;
+    font-weight: bolder;
+    color: aqua;
+}
+.my_block p{
+    font-size: medium;
+    padding-bottom: 5px;
+    color: antiquewhite;
+}
+.sub-block{
+    position: relative;
+    padding: 5px;
+}
+.time-block,.textBlock{
+    float: left;
+}
+.time-block{
+    width: 20%;
+}
+.time-block p{
+    text-decoration: none;
+}
+.textBlock{
+    width: 83%;
+}
+#LoadingBlock{
+    font-size: large;
+    font-weight: bolder;
+    text-align: center;
+}
