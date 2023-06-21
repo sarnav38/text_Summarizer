@@ -25,7 +25,7 @@ This repository contains two entities:
   myenv/Script/activate
   pip install -r requirements.txt
 ```
-3. Login  [```hugging face```](https://huggingface.co/) goto setting->access token click show  and copy Access Token from your account and paste it in [secrets.json](/server/secrets.json) file.
+3. Login  [```hugging face```](https://huggingface.co/) goto setting->access token click show  and copy Access Token from your account and paste it in [secrets.json](https://github.com/sarnav38/text_Summarizer/blob/main/server/secerts.json) file.
 
 ![App_Screenshot](https://via.placeholder.com/468x100?text=App+Screenshot+Here)
 
