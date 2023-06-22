@@ -48,7 +48,16 @@ This repository contains two entities:
 
 ![2.](https://github.com/sarnav38/text_Summarizer/blob/main/img/summary.png)
 
-    
+## Deploy 
+Deploy [server](/server) folder on server and paste url in [line number 18 of popup.js](https://github.com/sarnav38/text_Summarizer/blob/main/client/popup/popup.js#L18).
+
+1. Screen Shot showns below for AWS lamda.
+
+![1.](https://github.com/sarnav38/text_Summarizer/blob/main/img/server1.gif)
+
+![2.](https://github.com/sarnav38/text_Summarizer/blob/main/img/server2.gif)
+
+
 ## Authors
 
 - [Arnav Sharma](https://github.com/sarnav38)
